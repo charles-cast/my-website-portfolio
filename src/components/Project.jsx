@@ -3,7 +3,7 @@ import styles from './Project.module.css';
 function Projects() {
   const projects = [
     {
-      title: 'Project 1',
+      title: 'Portfolio',
       description: 'A web application for managing tasks.',
     },
     {
