@@ -36,6 +36,9 @@
 .projectDetails h3 {
     margin-bottom: 10px;
 }
+button {
+    background-color: #0026799c;
+}
   
 
 @media (max-width: 768px) {

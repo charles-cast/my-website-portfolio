@@ -28,6 +28,10 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url('photo-1571171637578-41bc2dd41cd2.jpg');
+  background-attachment: fixed; 
+  background-position: center;
+  background-size: cover;
 }
 
 h1 {
