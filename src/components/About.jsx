@@ -14,6 +14,8 @@ function About() {
            I enjoy exploring new technologies and building interesting projects.
           Beyond coding, I'm also an avid frisbee player, which teaches me teamwork and strategic thinking.
         </p>
+        <h2>Skills</h2>
+        <p>HTML | CSS | Back End DEVELOPER</p>
       </div>
     </section>
   );
